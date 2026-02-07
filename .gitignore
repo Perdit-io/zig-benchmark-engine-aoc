@@ -1,3 +1,4 @@
 .zig-cache
 .zed
 input
+.DS_Store
